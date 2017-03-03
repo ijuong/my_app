@@ -1,10 +1,13 @@
---node.js °­ÀÇ
- http://blog.naver.com/azure0777/220461355508
+--node.js stydy
+http://blog.naver.com/azure0777/220461355508
 
---git commit ¹ý 
+--git commit
 git add .
 git commit -m "<commit message>"
 git push -u origin master
 
+
+--git clone
+git clone https://github.com/ijuong/my_app.git
 
 
